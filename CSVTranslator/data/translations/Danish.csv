@@ -1,0 +1,14 @@
+field1,Name,Description,Image
+id1,Internationalisering,"Internationalisering (i18n) i Spil:
+
+Omfang: Internationalisering i spil indebærer at designe og udvikle spillet på en måde, der gør det tilpasningsdygtigt til forskellige sprog, regioner og kulturelle sammenhænge.
+Mål: Det primære mål for internationalisering er at skabe en grundlæggende struktur inden for spillet, der muliggør let lokaliseringsprocessen uden behov for betydelige ændringer i koden. Det lægger grunden til at gøre spillet kulturelt og sprogligt neutralt.
+Aktiviteter: Under internationalisering fokuserer spiludviklere på aspekter som eksternalisering af tekst, understøttelse af forskellige tegnsæt (Unicode support) og design af en fleksibel brugergrænseflade, der kan håndtere forskellige tekstlængder og formater. Det indebærer også at tage højde for kulturelle forskelle i elementer som dato- og tidsformater, numeriske repræsentationer og andre ikke-tekstlige aspekter.",/Game/Images/id1.id1
+id2,Lokalisering,"Lokalisering (L10n) i spil:
+
+Omfang: Lokalisering i spil er den specifikke proces med at tilpasse spillet til et bestemt sprog, område eller kulturel kontekst.
+Mål: Det primære mål med lokalisering er at tilpasse spillet til en målgruppe, så det er kulturelt relevant og sprogligt korrekt. Dette inkluderer oversættelse af tekst, tilpasning af kulturelle elementer og tilpasning af brugeroplevelsen til en bestemt lokalitet.
+Aktiviteter: Under lokalisering arbejder oversættere på at oversætte in-game tekster, tilpasse grafik og lydelementer og foretage justeringer af brugergrænsefladen, så den passer til sproglige og kulturelle forventninger hos målgruppen. Det kan også involvere ændringer af indhold, der kan være kulturelt følsomt eller upassende i visse regioner.",/Game/Images/id2.id2
+id3,Hej,Hej verden!,/Game/Images/id3.id3
+id4,Hej hej,Hej verden!,/Game/Images/id4.id4
+id5,Eksempel,Eksempeltekst,/Game/Images/id5.id5

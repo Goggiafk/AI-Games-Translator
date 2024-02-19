@@ -1,0 +1,14 @@
+field1,Name,Description,Image
+id1,"การระหว่างประเทศ"" (Internationalization)","Internationalization (i18n) trong Trò chơi:
+
+Phạm vi: Internationalization trong trò chơi liên quan đến việc thiết kế và phát triển trò chơi một cách linh hoạt để có thể thích nghi với các ngôn ngữ, vùng lãnh thổ và ngữ cảnh văn hóa khác nhau.
+Mục tiêu: Mục tiêu chính của internationalization là tạo nên một nền tảng trong trò chơi cho phép dễ dàng dịch ngôn ngữ mà không cần thay đổi mã nguồn quan trọng. Nó tạo điều kiện để trò chơi trở nên vô văn hóa và đa ngôn ngữ.
+Hoạt động: Trong quá trình internationalization, các nhà phát triển trò chơi tập trung vào việc thu gọn văn bản, đáp ứng các bộ ký tự khác nhau (hỗ trợ Unicode) và thiết kế giao diện người dùng linh hoạt có thể xử lý các độ dài và định dạng văn bản khác nhau. Nó cũng liên quan đến việc xem xét sự khác biệt văn hóa trong các yếu tố như định dạng ngày tháng, giờ, biểu diễn số và các yếu tố không văn bản khác.",/Game/Images/id1.id1
+id2,"Localization"" in Vietnamese is ""địa phương hóa"".","Địa phương hóa (L10n) trong trò chơi:
+
+Phạm vi: Địa phương hóa trong trò chơi là quá trình cụ thể để thích nghi trò chơi cho một ngôn ngữ, khu vực hoặc ngữ cảnh văn hóa cụ thể.
+Mục tiêu: Mục tiêu chính của địa phương hóa là tùy chỉnh trò chơi cho một khán giả mục tiêu, làm cho nó phù hợp văn hóa và chính xác về ngôn ngữ. Nó bao gồm việc dịch văn bản, điều chỉnh các yếu tố văn hóa và tùy chỉnh trải nghiệm người dùng cho một địa điểm cụ thể.
+Các hoạt động: Trong quá trình địa phương hóa, các dịch giả làm việc để dịch văn bản trong trò chơi, thích nghi đồ họa và yếu tố âm thanh và thay đổi giao diện người dùng phù hợp với mong đợi về ngôn ngữ và văn hóa của khán giả mục tiêu. Điều này cũng có thể liên quan đến việc thay đổi nội dung có thể gây nhạy cảm văn hóa hoặc không thích hợp ở một số khu vực.",/Game/Images/id2.id2
+id3,Xin chào,Xin chào thế giới!,/Game/Images/id3.id3
+id4,Tạm biệt,Tạm biệt thế giới!,/Game/Images/id4.id4
+id5,Ví dụ,Ví dụ văn bản,/Game/Images/id5.id5

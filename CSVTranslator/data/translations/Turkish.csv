@@ -1,0 +1,14 @@
+field1,Name,Description,Image
+id1,Ulusal olmadan küreselleşme,"Oyunlarda Uluslararasılaşma (i18n):
+
+Kapsam: Oyunlarda uluslararasılaşma, oyunun farklı diller, bölgeler ve kültürel bağlamlara uyarlanabilir şekilde tasarlanması ve geliştirilmesini içerir.
+Hedef: Uluslararasılaşmanın temel hedefi, oyun içinde önemli kod değişikliklerine ihtiyaç duymadan kolay bir şekilde yerelleştirme yapılabilmesine olanak tanıyan bir temel oluşturmaktır. Bu, oyunun kültürel ve dil açısından tarafsız hale getirilmesinin temellerini atar.
+Aktiviteler: Uluslararasılaşma sürecinde oyun geliştiricileri, metinlerin harici hale getirilmesi, çeşitli karakter setlerine (Unicode desteği) uyum sağlama ve farklı metin uzunlukları ve formatlarını yönetebilen esnek bir kullanıcı arayüzü tasarımı gibi unsurlara odaklanır. Ayrıca, tarih ve saat formatları, sayısal gösterimler ve diğer metinsel olmayan unsurlarda kültürel farklılıkların dikkate alınması da bu sürece dahildir.",/Game/Images/id1.id1
+id2,Yerelleştirme,"Oyunlarda Yerelleştirme (L10n):
+
+Kapsam: Oyunlarda yerelleştirme özel olarak oyunu belirli bir dil, bölge veya kültürel bağlama uyarlamak için yapılan süreçtir.
+Amaç: Yerelleştirmenin temel amacı, oyunu hedef kitle için özelleştirmek ve kültürel açıdan uygun ve dilbilgisel olarak doğru hale getirmektir. Bu, metinleri çevirmeyi, kültürel unsurları uyarlama ve kullanıcı deneyimini belirli bir yer için uygun hale getirme gibi faaliyetleri içerir.
+Faaliyetler: Yerelleştirme sürecinde tercümanlar, oyun içi metinleri çevirme, grafikleri ve ses öğelerini uyarlama ve kullanıcı arayüzünü hedef kitlenin dilbilgisi ve kültürel beklentilerine uygun hale getirme üzerinde çalışır. Ayrıca, belirli bölgelerde kültürel olarak hassas veya uygun olmayan içeriğe yönelik değişiklikleri içerebilir."" ",/Game/Images/id2.id2
+id3,Merhaba,Merhaba Dünya!,/Game/Images/id3.id3
+id4,Güle güle,Elveda Dünya!,/Game/Images/id4.id4
+id5,Örnek,"Örnek metin"" (Example text)",/Game/Images/id5.id5

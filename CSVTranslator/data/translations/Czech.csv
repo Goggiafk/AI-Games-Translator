@@ -1,0 +1,14 @@
+field1,Name,Description,Image
+id1,Internacionalizace,"Internationalizace (i18n) ve hrách:
+
+Rozsah: Internationalizace ve hrách zahrnuje navrhování a vývoj hry takovým způsobem, který umožňuje přizpůsobení hry různým jazykům, regionům a kulturním kontextům.
+Cíl: Hlavním cílem internationalizace je vytvořit základ ve hře, který umožní snadnou lokalizaci bez nutnosti významných změn v kódu. Tím se vytváří podmínky pro vytvoření hry, která je kulturně a jazykově neutrální.
+Aktivity: Při internationalizaci se herní vývojáři zaměřují na aspekty, jako je extrahování textu, přizpůsobení různým znakovým sadám (podpora Unicode) a návrh flexibilního uživatelského rozhraní, které dokáže zacházet s různými délkami a formáty textu. Zahrnuje také zohlednění kulturních rozdílů v prvcích, jako jsou formáty datumu a času, číselné zápisy a další netextové aspekty.",/Game/Images/id1.id1
+id2,Lokalizace,"Lokalizace (L10n) ve hrách:
+
+Rozsah: Lokalizace ve hrách je specifický proces přizpůsobení hry určitému jazyku, regionu nebo kulturnímu kontextu.
+Cíl: Hlavním cílem lokalizace je upravit hru pro cílové publikum tak, aby byla kulturně relevantní a jazykově přesná. Zahrnuje překlad textů, úpravy kulturních prvků a uzpůsobení uživatelského rozhraní pro konkrétní místo.
+Aktivity: Během lokalizace pracují překladatelé na překladu textů ve hře, adaptaci grafických a zvukových prvků a úpravách uživatelského rozhraní tak, aby odpovídalo jazykovým a kulturním očekáváním cílového obecenstva. Mohou se také provádět změny obsahu, který by mohl být kulturně citlivý nebo nevhodný v určitých oblastech.",/Game/Images/id2.id2
+id3,Dobrý den,Dobrý den světe!,/Game/Images/id3.id3
+id4,Ahoj,Sbohem světe!,/Game/Images/id4.id4
+id5,Příklad,Příkladový text,/Game/Images/id5.id5

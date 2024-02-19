@@ -1,0 +1,14 @@
+field1,Name,Description,Image
+id1,Internationalización,"Internacionalización (i18n) en los Juegos:
+
+Alcance: La internacionalización en los juegos implica diseñar y desarrollar el juego de manera que sea adaptable a diferentes idiomas, regiones y contextos culturales.
+Objetivo: El objetivo principal de la internacionalización es crear una base dentro del juego que permita una fácil localización sin necesidad de realizar cambios significativos en el código. Establece el escenario para hacer que el juego sea cultural y lingüísticamente neutral.
+Actividades: Durante la internacionalización, los desarrolladores de juegos se centran en aspectos como externalizar el texto, permitir varios conjuntos de caracteres (compatibilidad Unicode) y diseñar una interfaz de usuario flexible que pueda manejar diferentes longitudes y formatos de texto. También implica tener en cuenta las diferencias culturales en elementos como formatos de fecha y hora, representaciones numéricas y otros aspectos no textuales.",/Game/Images/id1.id1
+id2,Localización,"Localización (L10n) en juegos:
+
+Alcance: La localización en juegos es el proceso específico de adaptar el juego a un idioma, región o contexto cultural particular.
+Objetivo: El objetivo principal de la localización es personalizar el juego para una audiencia objetivo, haciéndolo culturalmente relevante y lingüísticamente preciso. Esto incluye la traducción de texto, ajustar elementos culturales y adaptar la experiencia del usuario para una localidad específica.
+Actividades: Durante la localización, los traductores trabajan en la traducción del texto del juego, adaptando elementos gráficos y de audio, y realizando ajustes en la interfaz de usuario para adaptarse a las expectativas lingüísticas y culturales del público objetivo. También puede implicar cambios en el contenido que podría ser culturalmente sensible o inapropiado en ciertas regiones.",/Game/Images/id2.id2
+id3,Hola,Hola Mundo!,/Game/Images/id3.id3
+id4,Adiós,¡Adiós Mundo!,/Game/Images/id4.id4
+id5,Ejemplo,Ejemplo de texto,/Game/Images/id5.id5

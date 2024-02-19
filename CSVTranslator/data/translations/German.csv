@@ -1,0 +1,14 @@
+field1,Name,Description,Image
+id1,Internationalisierung,"Internationalisierung (i18n) in Spielen:
+
+Umfang: Die Internationalisierung in Spielen umfasst das Design und die Entwicklung des Spiels auf eine Art und Weise, die es an verschiedene Sprachen, Regionen und kulturelle Kontexte anpassbar macht.
+Ziel: Das Hauptziel der Internationalisierung besteht darin, eine Grundlage im Spiel zu schaffen, die eine einfache Lokalisierung ohne größere Code-Änderungen ermöglicht. Es legt den Grundstein dafür, das Spiel kulturell und sprachlich neutral zu gestalten.
+Aktivitäten: Bei der Internationalisierung konzentrieren sich Spieleentwickler auf Aspekte wie die Externalisierung von Texten, die Unterstützung verschiedener Zeichensätze (Unicode-Unterstützung) und das Design einer flexiblen Benutzeroberfläche, die mit unterschiedlichen Textlängen und -formaten umgehen kann. Es beinhaltet auch die Berücksichtigung kultureller Unterschiede bei Elementen wie Datum- und Uhrzeitformaten, numerischen Darstellungen und anderen nicht-textlichen Aspekten.",/Game/Images/id1.id1
+id2,Lokalisierung,"Lokalisierung (L10n) in Spielen:
+
+Umfang: Lokalisierung in Spielen bezeichnet den spezifischen Prozess der Anpassung eines Spiels an eine bestimmte Sprache, Region oder kulturellen Kontext.
+Ziel: Das Hauptziel der Lokalisierung besteht darin, das Spiel für eine Zielgruppe anzupassen, sodass es kulturell relevant und sprachlich korrekt ist. Dies umfasst die Übersetzung von Texten, die Anpassung kultureller Elemente und die Gestaltung der Benutzererfahrung für ein bestimmtes Gebiet.
+Aktivitäten: Bei der Lokalisierung arbeiten Übersetzer daran, den Text im Spiel zu übersetzen, Grafiken und Audioelemente anzupassen und Anpassungen an der Benutzeroberfläche vorzunehmen, um den sprachlichen und kulturellen Erwartungen der Zielgruppe gerecht zu werden. Es kann auch Änderungen am Inhalt umfassen, die kulturell sensibel oder in bestimmten Regionen unangemessen sein könnten.",/Game/Images/id2.id2
+id3,Hallo,Hallo Welt!,/Game/Images/id3.id3
+id4,Tschüss,Auf Wiedersehen Welt!,/Game/Images/id4.id4
+id5,Beispiel,Beispieltext,/Game/Images/id5.id5

@@ -1,0 +1,14 @@
+field1,Name,Description,Image
+id1,"Internationalization"" in Hungarian is ""Nemzetköziesítés"".","Internationalizáció (i18n) a játékokban:
+
+Hatáskör: A játékok nemzetköziesítése olyan módon történik, hogy a játék alkalmazkodni tudjon különböző nyelvekhez, régiókhoz és kulturális kontextusokhoz.
+Cél: Az internationalizáció elsődleges célja olyan alapot teremteni a játékban, amely lehetővé teszi könnyű lokalizációt jelentős kódbeli változtatások nélkül. Ennek az alapnak a kialakítása a játék kulturálisan és nyelvileg semlegessé tételét szolgálja.
+Tevékenységek: Az internationalizáció során a játékfejlesztők a következőkre fókuszálnak: a szövegek külsővé tétele, különböző karakterkészletek támogatása (Unicode támogatás) és egy rugalmas felhasználói felület kialakítása, amely képes kezelni különböző szöveghosszakat és formátumokat. Tartalmazza továbbá a kulturális különbségek figyelembevételét olyan elemeknél, mint a dátum- és időformátumok, numerikus reprezentációk és egyéb nem-szöveges aspektusok.",/Game/Images/id1.id1
+id2,Localizáció,"Játékok lokalizációja (L10n):
+
+Tartomány: A játékok lokalizációja a játékot adott nyelvre, régióra vagy kulturális kontextusra való alkalmazkodás speciális folyamata.
+Cél: A lokalizáció fő célja a játék testre szabása egy célcsoport számára, hogy kulturálisan releváns és nyelvileg pontos legyen. Ide tartozik a szövegek fordítása, kulturális elemek alkalmazkodása, és a felhasználói élmény megfelelő hozzáigazítása egy adott helyszínre.
+Teendők: A lokalizáció során a fordítók foglalkoznak a játékbeli szövegek fordításával, a grafikai és hangelemek alkalmazkodásával, valamint a felhasználói felület módosításaival annak érdekében, hogy megfeleljenek a célcsoport nyelvi és kulturális elvárásainak. Lehet, hogy tartalomváltoztatást is magában foglal, amely kulturálisan érzékeny vagy helytelen lenne bizonyos régiókban.",/Game/Images/id2.id2
+id3,Szia,Szia Világ!,/Game/Images/id3.id3
+id4,Sziasztok,Viszlát Világ!,/Game/Images/id4.id4
+id5,Példa,Példa szöveg,/Game/Images/id5.id5

@@ -1,0 +1,14 @@
+field1,Name,Description,Image
+id1,Internasionalisasi,"Internasionalisasi (i18n) dalam Permainan:
+
+Lingkup: Internasionalisasi dalam permainan melibatkan merancang dan mengembangkan permainan dengan cara yang memungkinkannya beradaptasi dengan berbagai bahasa, wilayah, dan konteks budaya.
+Tujuan: Tujuan utama internasionalisasi adalah menciptakan dasar dalam permainan yang memungkinkan lokalitas dengan mudah tanpa perlu melakukan perubahan kode yang signifikan. Ini menciptakan panggung untuk menjadikan permainan netral secara budaya dan linguistik.
+Kegiatan: Selama internasionalisasi, pengembang permainan fokus pada aspek-aspek seperti memperjelas teks, menerima berbagai set karakter (dukungan Unicode), dan merancang antarmuka pengguna yang fleksibel agar dapat menangani panjang dan format teks yang berbeda. Ini juga melibatkan perhatian pada perbedaan budaya dalam elemen-elemen seperti format tanggal dan waktu, representasi numerik, dan aspek non-teks lainnya.",/Game/Images/id1.id1
+id2,Penyelarasan,"Localisasi (L10n) dalam Permainan:
+
+Wawasan: Localisasi dalam permainan adalah proses khusus yang mengadaptasi permainan untuk bahasa, wilayah, atau konteks budaya tertentu.
+Tujuan: Tujuan utama dari localisasi adalah menyesuaikan permainan untuk khalayak target dengan membuatnya relevan secara budaya dan akurat secara linguistik. Ini mencakup menerjemahkan teks, menyesuaikan elemen budaya, dan menyesuaikan pengalaman pengguna untuk suatu daerah tertentu.
+Aktivitas: Selama proses localisasi, penerjemah bekerja pada menerjemahkan teks dalam permainan, mengadaptasi grafik dan elemen audio, serta melakukan penyesuaian pada antarmuka pengguna agar sesuai dengan harapan linguistik dan budaya dari khalayak target. Ini juga mungkin melibatkan perubahan pada konten yang dapat mencerminkan kebudayaan atau tidak pantas di wilayah tertentu.",/Game/Images/id2.id2
+id3,Halo,Halo Dunia!,/Game/Images/id3.id3
+id4,Sampai jumpa,Sampai jumpa dunia!,/Game/Images/id4.id4
+id5,Contoh,"Contoh teks"" Bahasa Indonesia",/Game/Images/id5.id5

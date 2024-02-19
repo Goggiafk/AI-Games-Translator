@@ -1,0 +1,14 @@
+field1,Name,Description,Image
+id1,Internazionalizzazione,"Internazionalizzazione (i18n) nei giochi:
+
+Ambito: L'internazionalizzazione nei giochi consiste nel progettare e sviluppare il gioco in modo da renderlo adattabile a diverse lingue, regioni e contesti culturali.
+Obiettivo: L'obiettivo principale dell'internazionalizzazione è creare una base all'interno del gioco che permetta una facile localizzazione senza la necessità di modifiche significative al codice. Questo prepara il terreno per rendere il gioco culturalmente e linguisticamente neutrale.
+Attività: Durante l'internazionalizzazione, gli sviluppatori del gioco si concentrano su aspetti come l'esternalizzazione del testo, l'adattamento a vari set di caratteri (supporto Unicode) e la progettazione di un'interfaccia utente flessibile in grado di gestire diverse lunghezze e formati di testo. Comprende anche la considerazione delle differenze culturali negli elementi come i formati di data e ora, le rappresentazioni numeriche e altri aspetti non testuali.",/Game/Images/id1.id1
+id2,Localizzazione,"Localizzazione (L10n) nei Giochi:
+
+Ambito: La localizzazione nei giochi è il processo specifico di adattare il gioco per una determinata lingua, regione o contesto culturale.
+Obiettivo: L'obiettivo principale della localizzazione è personalizzare il gioco per un pubblico target, rendendolo culturalmente pertinente e linguisticamente accurato. Include la traduzione del testo, l'adattamento degli elementi culturali e l'adattamento dell'esperienza utente per una specifica località.
+Attività: Durante la localizzazione, i traduttori lavorano sulla traduzione del testo nel gioco, sull'adattamento degli elementi grafici e audio, e apportano modifiche all'interfaccia utente in modo da soddisfare le aspettative linguistiche e culturali del pubblico target. Potrebbe anche comportare modifiche ai contenuti che potrebbero essere sensibili dal punto di vista culturale o inappropriati in determinate regioni.",/Game/Images/id2.id2
+id3,Ciao,Ciao Mondo!,/Game/Images/id3.id3
+id4,Arrivederci,Ciao mondo!,/Game/Images/id4.id4
+id5,Esempio,Testo di esempio,/Game/Images/id5.id5

@@ -1,0 +1,14 @@
+,Name,Description,Image
+id1,Internationalization,"Internationalization (i18n) in Games:
+
+Scope: Internationalization in games involves designing and developing the game in a way that makes it adaptable to different languages, regions, and cultural contexts.
+Goal: The primary goal of internationalization is to create a foundation within the game that allows for easy localization without the need for significant code changes. It sets the stage for making the game culturally and linguistically neutral.
+Activities: During internationalization, game developers focus on aspects such as externalizing text, accommodating various character sets (Unicode support), and designing a flexible user interface that can handle different text lengths and formats. It also involves considering cultural differences in elements like date and time formats, numerical representations, and other non-textual aspects.",/Game/Images/id1.id1
+id2,Localization,"Localization (L10n) in Games:
+
+Scope: Localization in games is the specific process of adapting the game for a particular language, region, or cultural context.
+Goal: The primary goal of localization is to customize the game for a target audience, making it culturally relevant and linguistically accurate. It includes translating text, adjusting cultural elements, and tailoring the user experience for a specific locale.
+Activities: During localization, translators work on translating in-game text, adapting graphics and audio elements, and making adjustments to the user interface to fit the linguistic and cultural expectations of the target audience. It may also involve changes to content that could be culturally sensitive or inappropriate in certain regions.",/Game/Images/id2.id2
+id3,Hello,Hello World!,/Game/Images/id3.id3
+id4,Bye,Bye World!,/Game/Images/id4.id4
+id5,Example,Example text,/Game/Images/id5.id5

@@ -1,0 +1,14 @@
+field1,Name,Description,Image
+id1,Internacionalizare,"Internaționalizarea (i18n) în jocuri:
+
+Sfera: Internaționalizarea în jocuri implică proiectarea și dezvoltarea jocului într-un mod care să-l facă adapatabil la diferite limbi, regiuni și contexte culturale.
+Obiectiv: Scopul principal al internaționalizării este de a crea o bază în joc care să permită o localizare ușoară, fără a necesita modificări semnificative ale codului. Aceasta pregătește terenul pentru a face jocul cultural și lingvistic neutru.
+Activități: În timpul internaționalizării, dezvoltatorii de jocuri se concentrează pe aspecte precum externalizarea textului, acomodarea diferitelor seturi de caractere (suport Unicode) și proiectarea unei interfețe flexibile care poate gestiona diferite lungimi și formate de text. De asemenea, implică luarea în considerare a diferențelor culturale în elementele precum formatele de dată și timp, reprezentările numerice și alte aspecte non-textuale.",/Game/Images/id1.id1
+id2,Localizare,"Localizarea (L10n) în jocuri:
+
+Domeniu: Localizarea în jocuri este procesul specific de adaptare a jocului pentru o anumită limbă, regiune sau context cultural.
+Obiectiv: Scopul principal al localizării este de a personaliza jocul pentru o audiență țintă, făcându-l relevant cultural și precis din punct de vedere lingvistic. Acesta include traducerea textului, ajustarea elementelor culturale și adaptarea experienței utilizatorului pentru o localitate specifică.
+Activități: În timpul localizării, traducătorii lucrează la traducerea textului din joc, adaptarea elementelor grafice și audio, și fac ajustări la interfața utilizatorului pentru a se potrivi așteptărilor lingvistice și culturale ale audienței țintă. Aceasta poate implica și modificări la conținutul care ar putea fi cultural sensibil sau nepotrivit în anumite regiuni.",/Game/Images/id2.id2
+id3,Bună ziua,Salut lume!,/Game/Images/id3.id3
+id4,La revedere,"La revedere, Lume!",/Game/Images/id4.id4
+id5,Exemplu,Exemplu de text,/Game/Images/id5.id5

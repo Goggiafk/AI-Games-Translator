@@ -1,0 +1,14 @@
+field1,Name,Description,Image
+id1,Internacionalização,"Internacionalização (i18n) em Jogos:
+
+Escopo: A internacionalização em jogos envolve o projeto e desenvolvimento do jogo de forma que ele seja adaptável a diferentes idiomas, regiões e contextos culturais.
+Objetivo: O objetivo principal da internacionalização é criar uma base dentro do jogo que permita uma fácil localização sem a necessidade de alterações significativas no código. Ela prepara o terreno para tornar o jogo cultural e linguisticamente neutro.
+Atividades: Durante a internacionalização, os desenvolvedores de jogos focam em aspectos como a externalização do texto, acomodação de vários conjuntos de caracteres (suporte ao Unicode) e o design de uma interface flexível que possa lidar com diferentes comprimentos e formatos de texto. Também envolve considerar diferenças culturais em elementos como formatos de data e hora, representações numéricas e outros aspectos não textuais.",/Game/Images/id1.id1
+id2,"Localização"" em Português-Brasil.","Localização (L10n) em Jogos:
+
+Escopo: A localização em jogos é o processo específico de adaptar o jogo para um determinado idioma, região ou contexto cultural.
+Objetivo: O principal objetivo da localização é personalizar o jogo para um público-alvo, tornando-o culturalmente relevante e linguisticamente preciso. Isso inclui a tradução de textos, a adaptação de elementos culturais e a adequação da experiência do usuário para uma determinada localidade.
+Atividades: Durante a localização, tradutores trabalham na tradução do texto do jogo, na adaptação de gráficos e elementos de áudio, além de fazer ajustes na interface do usuário para se adequar às expectativas linguísticas e culturais do público-alvo. Também pode envolver alterações de conteúdo que possam ser culturalmente sensíveis ou inadequadas em determinadas regiões.",/Game/Images/id2.id2
+id3,Olá,Olá Mundo!,/Game/Images/id3.id3
+id4,Tchau,"Até mais, Mundo!",/Game/Images/id4.id4
+id5,"Exemplo"" Português-Brasil",Texto de exemplo,/Game/Images/id5.id5

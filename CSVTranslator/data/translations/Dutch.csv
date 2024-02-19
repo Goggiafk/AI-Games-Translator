@@ -1,0 +1,14 @@
+field1,Name,Description,Image
+id1,Internationalisatie,"Internationalisatie (i18n) in Games:
+
+Scope: Internationalisatie in games houdt in dat het ontwerp en de ontwikkeling van het spel zodanig worden uitgevoerd dat het geschikt is voor verschillende talen, regio's en culturele contexten.
+Doel: Het primaire doel van internationalisatie is om een basis te creëren binnen het spel die gemakkelijke lokalisatie mogelijk maakt zonder dat er grote wijzigingen in de code nodig zijn. Hiermee wordt het spel cultureel en taalkundig neutraal.
+Activiteiten: Bij internationalisatie richten spelontwikkelaars zich op aspecten zoals het extern maken van tekst, het ondersteunen van verschillende tekenreeksen (Unicode-ondersteuning) en het ontwerpen van een flexibele gebruikersinterface die verschillende tekstenlengtes en -formaten kan verwerken. Het houdt ook rekening met culturele verschillen in elementen zoals datum- en tijdnotaties, numerieke weergaves en andere niet-tekstuele aspecten.",/Game/Images/id1.id1
+id2,Localisatie,"Lokalisatie (L10n) in games:
+
+Scope: Lokalisatie in games is het specifieke proces van het aanpassen van het spel voor een bepaalde taal, regio of culturele context.
+Doel: Het primaire doel van lokalisatie is om het spel aan te passen voor een doelgroep, zodat het cultureel relevant en taalkundig nauwkeurig is. Het omvat het vertalen van tekst, het aanpassen van culturele elementen en het afstemmen van de gebruikerservaring op een specifieke locatie.
+Activiteiten: Tijdens lokalisatie werken vertalers aan het vertalen van tekst in het spel, het aanpassen van grafische en audio-elementen en het maken van aanpassingen aan de gebruikersinterface om te voldoen aan de taalkundige en culturele verwachtingen van de doelgroep. Het kan ook wijzigingen omvatten in inhoud die cultureel gevoelig of ongepast zou kunnen zijn in bepaalde regio's.",/Game/Images/id2.id2
+id3,Hallo,Hallo wereld!,/Game/Images/id3.id3
+id4,Dag,Dag wereld!,/Game/Images/id4.id4
+id5,Voorbeeld,Voorbeeldtekst,/Game/Images/id5.id5

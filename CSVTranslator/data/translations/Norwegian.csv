@@ -1,0 +1,12 @@
+field1,Name,Description,Image
+id1,Internasjonalisering,"Internasjonalisering (i18n) i spill:
+
+Omfang: Internasjonalisering i spill innebærer å designe og utvikle spillet på en måte som gjør det tilpasningsdyktig til ulike språk, regioner og kulturelle kontekster.
+Mål: Det viktigste målet med internasjonalisering er å skape en grunnleggende struktur i spillet som muliggjør enkel lokalisering uten behov for betydelige endringer i koden. Det legger grunnlaget for å gjøre spillet kulturelt og språklig nøytralt.
+Aktiviteter: Under internasjonalisering fokuserer spillutviklere på aspekter som å eksternalisere tekst, tilpasse seg ulike tegnsett (Unicode-støtte) og designe et fleksibelt brukergrensesnitt som kan håndtere forskjellige tekstlengder og formater. Det innebærer også å ta hensyn til kulturelle forskjeller i for eksempel dato- og tidsformater, numeriske representasjoner og andre ikke-tekstlige aspekter.",/Game/Images/id1.id1
+id2,Lokalisering,"Oppgave: Lokalisering i spill er den spesifikke prosessen med å tilpasse spillet til et bestemt språk, område eller kulturell kontekst.
+Mål: Hovedmålet med lokalisering er å tilpasse spillet til målgruppen ved å gjøre det kulturelt relevant og språklig korrekt. Dette inkluderer oversettelse av tekst, tilpasning av kulturelle elementer og tilrettelegging av brukeropplevelsen for et bestemt sted.
+Aktiviteter: Under lokalisering jobber oversettere med å oversette tekst i selve spillet, tilpasse grafiske og lydelementer, og gjøre justeringer i brukergrensesnittet for å passe de språklige og kulturelle forventningene til målgruppen. Det kan også innebære endringer i innhold som kan være kulturelt følsomt eller upassende i visse regioner.",/Game/Images/id2.id2
+id3,Hei,Hei verden!,/Game/Images/id3.id3
+id4,"Hade"" eller ""Adjø"" ","Hade, verden!"" (Note: If the context is more casual, you can use ""Ha det, verden!"")",/Game/Images/id4.id4
+id5,Eksempel,Eksempeltekst,/Game/Images/id5.id5

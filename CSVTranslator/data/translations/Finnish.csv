@@ -1,0 +1,14 @@
+field1,Name,Description,Image
+id1,Kansainvälistäminen,"Kansainvälistäminen (i18n) peleissä:
+
+Laajuus: Kansainvälistäminen peleissä tarkoittaa pelin suunnittelua ja kehittämistä siten, että se soveltuu eri kielille, alueille ja kulttuurikonteksteihin.
+Tavoite: Kansainvälistämisen ensisijainen tavoite on luoda peliin perusta, joka mahdollistaa helpon lokalisaation ilman merkittäviä koodimuutoksia. Se luo pohjan pelin kulttuuriselle ja kielelliselle neutraaliudelle.
+Toiminnot: Kansainvälistämisessä pelin kehittäjät keskittyvät ulkoistamaan tekstiä, tukemaan erilaisia merkistöjä (Unicode-tuki) ja suunnittelemaan joustavan käyttöliittymän, joka pystyy käsittelemään eri tekstipituuksia ja -muotoja. Siihen kuuluu myös kulttuurierojen huomioiminen päivämäärä- ja aikamuodoissa, numeroiden esittämisessä ja muissa ei-tekstuaalisissa näkökohdissa.",/Game/Images/id1.id1
+id2,Lokaali,"Pelien lokalisointi (L10n):
+
+Laajuus: Pelien lokalisointi on prosessi, jossa peli sopeutetaan tiettyyn kieleen, alueeseen tai kulttuuriseen kontekstiin.
+Tavoite: Lokalisoinnin pääasiallinen tavoite on räätälöidä peli kohdeyleisölle sopivaksi, tekemällä siitä kulttuurisesti relevantti ja kielellisesti tarkka. Siihen kuuluu tekstin kääntäminen, kulttuurielementtien sopeuttaminen, ja käyttökokemuksen räätälöinti tiettyä aluetta varten.
+Toimenpiteet: Lokalisoinnin aikana kääntäjät työskentelevät pelissä olevan tekstin kääntämisen parissa, sopeuttavat grafiikka- ja äänielementit sekä tekevät muutoksia käyttöliittymään, jotta se sopii kohdeyleisön kielellisiin ja kulttuurisiin odotuksiin. Se voi myös sisältää muutoksia sisältöön, joka voisi olla kulttuurisesti arkaluonteista tai sopimatonta tietyillä alueilla.",/Game/Images/id2.id2
+id3,Hei,Hei maailma!,/Game/Images/id3.id3
+id4,Hei hei,Hei maailma!,/Game/Images/id4.id4
+id5,Esimerkki,Esimerkkiteksti,/Game/Images/id5.id5

@@ -1,0 +1,14 @@
+field1,Name,Description,Image
+id1,Internationalizacja,"Internacjonalizacja (i18n) w grach:
+
+Zakres: Internacjonalizacja w grach polega na projektowaniu i tworzeniu gry w taki sposób, aby można ją było dostosować do różnych języków, regionów i kontekstów kulturowych.
+Cel: Głównym celem internacjonalizacji jest stworzenie podstaw, które umożliwią łatwą lokalizację gry bez konieczności znacznych zmian w kodzie. Tworzy ona podstawy do tworzenia gry, która jest kulturowo i językowo neutralna.
+Działania: Podczas procesu internacjonalizacji, deweloperzy gier skupiają się na takich aspektach jak zewnętrzne teksty, obsługa różnych zestawów znaków (wsparcie dla Unicode) oraz projektowanie elastycznego interfejsu użytkownika, który może obsłużyć różne długości i formaty tekstu. Wymaga ona również uwzględnienia różnic kulturowych w elementach takich jak formaty daty i czasu, reprezentacje liczbowe i inne aspekty niezwiązane z tekstem.",/Game/Images/id1.id1
+id2,Localizacja,"Localizacja (L10n) w grach:
+
+Zakres: Localizacja w grach to konkretne procesy dostosowywania gry do określonego języka, regionu lub kontekstu kulturowego.
+Cel: Głównym celem lokalizacji jest dostosowanie gry do docelowej publiczności, aby była kulturowo adekwatna i językowo poprawna. Obejmuje tłumaczenie tekstu, dostosowywanie elementów kulturowych oraz dopasowywanie interfejsu użytkownika do określonej lokalizacji.
+Działania: Podczas lokalizacji, tłumacze pracują nad tłumaczeniem tekstu w grze, dostosowywaniem elementów graficznych i dźwiękowych oraz wprowadzaniem zmian w interfejsie użytkownika, aby odpowiadał językowym i kulturowym oczekiwaniom docelowej publiczności. Może także wymagać zmian w treści, które mogłyby być kulturowo wrażliwe lub nieodpowiednie w pewnych regionach.",/Game/Images/id2.id2
+id3,Dzień dobry,Witaj świecie!,/Game/Images/id3.id3
+id4,Do widzenia,Do widzenia świecie!,/Game/Images/id4.id4
+id5,Przykład,Przykładowy tekst,/Game/Images/id5.id5

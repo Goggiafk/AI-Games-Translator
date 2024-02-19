@@ -1,0 +1,14 @@
+field1,Name,Description,Image
+id1,Internacionalização,"Internacionalização (i18n) em Jogos:
+
+Escopo: A internacionalização em jogos envolve projetar e desenvolver o jogo de forma que ele seja adaptável a diferentes idiomas, regiões e contextos culturais.
+Objetivo: O principal objetivo da internacionalização é criar uma base dentro do jogo que permita uma fácil localização sem a necessidade de alterações significativas no código. Isso prepara o terreno para tornar o jogo cultural e linguisticamente neutro.
+Atividades: Durante a internacionalização, os desenvolvedores de jogos se concentram em aspectos como a externalização de texto, acomodação de vários conjuntos de caracteres (suporte Unicode) e o design de uma interface de usuário flexível que possa lidar com diferentes comprimentos e formatos de texto. Também envolve considerar diferenças culturais em elementos como formatos de data e hora, representações numéricas e outros aspectos não textuais.",/Game/Images/id1.id1
+id2,"Localização"" Português","Localização (L10n) em Jogos:
+
+Escopo: A localização em jogos é o processo específico de adaptar o jogo para um determinado idioma, região ou contexto cultural.
+Objetivo: O objetivo principal da localização é personalizar o jogo para um público-alvo, tornando-o culturalmente relevante e linguisticamente preciso. Isso inclui a tradução de texto, ajuste de elementos culturais e adaptação da experiência do usuário para um local específico.
+Atividades: Durante a localização, tradutores trabalham na tradução de textos dentro do jogo, na adaptação de elementos gráficos e de áudio, e em ajustes na interface do usuário para se adequar às expectativas linguísticas e culturais do público-alvo. Também pode envolver alterações no conteúdo que possam ser culturalmente sensíveis ou inadequados em certas regiões.",/Game/Images/id2.id2
+id3,Olá,Olá Mundo!,/Game/Images/id3.id3
+id4,Até logo,"Até logo, Mundo!",/Game/Images/id4.id4
+id5,"Exemplo"" em Português",Texto de exemplo,/Game/Images/id5.id5

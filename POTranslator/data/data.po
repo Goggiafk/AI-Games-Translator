@@ -1,0 +1,105 @@
+﻿#. Key:	1C3646E044165AD4C02EEBAF1944DB6F
+#. SourceLocation:	/Game/UI/Inventory/InventoryItemWidget_BP.InventoryItemWidget_BP_C:WidgetTree.NameText.Text
+#: /Game/UI/Inventory/InventoryItemWidget_BP.InventoryItemWidget_BP_C:WidgetTree.NameText.Text
+msgctxt ",1C3646E044165AD4C02EEBAF1944DB6F"
+msgid "Item Name"
+msgstr ""
+
+#. Key:	2D34053F49BA7045FD590DB406C1545C
+#. SourceLocation:	/Game/UI/ErrorMessage.ErrorMessage_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/ErrorMessage.ErrorMessage_C:WidgetTree.TextBlock_0.Text
+msgctxt ",2D34053F49BA7045FD590DB406C1545C"
+msgid "Error: Unable to connect"
+msgstr ""
+
+#. Key:	3759F15D4B5FF43B93D3A68E512FF09A
+#. SourceLocation:	/Game/UI/Inventory/InventoryWidget_BP.InventoryWidget_BP_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Inventory/InventoryWidget_BP.InventoryWidget_BP_C:WidgetTree.TextBlock_0.Text
+msgctxt ",3759F15D4B5FF43B93D3A68E512FF09A"
+msgid "Inventory"
+msgstr ""
+
+#. Key:	865F25594A81DB1EC97A44B651C22138
+#. SourceLocation:	/Game/Props/BP_HikeBanner.BP_HikeBanner_C:TextRender_GEN_VARIABLE.Text
+#: /Game/Props/BP_HikeBanner.BP_HikeBanner_C:TextRender_GEN_VARIABLE.Text
+msgctxt ",865F25594A81DB1EC97A44B651C22138"
+msgid "Please"
+msgstr ""
+
+#. Key:	9857F5EB4991F00446B8A085AACE2A29
+#. SourceLocation:	/Game/UI/Inventory/InventoryItemWidget_BP.InventoryItemWidget_BP_C:WidgetTree.QuantityText.Text
+#: /Game/UI/Inventory/InventoryItemWidget_BP.InventoryItemWidget_BP_C:WidgetTree.QuantityText.Text
+msgctxt ",9857F5EB4991F00446B8A085AACE2A29"
+msgid "Item Quantity"
+msgstr ""
+
+#. Key:	C55453694866AB813060FAAF28D7110A
+#. SourceLocation:	/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_4.Text
+#: /Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_4.Text
+msgctxt ",C55453694866AB813060FAAF28D7110A"
+msgid "Example text"
+msgstr ""
+
+#. Key:	D708CA4D4895B6895742CD922491DBE6
+#. SourceLocation:	/Game/UI/CarTalks/WBP_InteractWithCar.WBP_InteractWithCar_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/CarTalks/WBP_InteractWithCar.WBP_InteractWithCar_C:WidgetTree.TextBlock_0.Text
+msgctxt ",D708CA4D4895B6895742CD922491DBE6"
+msgid "Press \"L\" to enter the car"
+msgstr ""
+
+#. Key:	DC0313DA4D01D2AE1B38D5B5793F0707
+#. SourceLocation:	/Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_5.Text
+#: /Game/UI/MainMenu.MainMenu_C:WidgetTree.TextBlock_5.Text
+msgctxt ",DC0313DA4D01D2AE1B38D5B5793F0707"
+msgid "Engage in intense PvP battles with rival hitchhikers who are also fighting for survival and supremacy on the road.\r\nPlayers can shoot from their vehicles, strategically aiming at weak points of enemy cars to disable them or cause massive damage.\r\nThe dynamic car physics and destructible environments add depth to the combat, allowing players to utilize the environment strategically.\r\nDestination Challenges:"
+msgstr ""
+
+#. Key:	E1AE787146539E29FCD4AD8838E947F3
+#. SourceLocation:	/Game/UI/ErrorMessage.ErrorMessage_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/ErrorMessage.ErrorMessage_C:WidgetTree.TextBlock_1.Text
+msgctxt ",E1AE787146539E29FCD4AD8838E947F3"
+msgid "OK"
+msgstr ""
+
+#. Key:	continue
+#. SourceLocation:	/Game/StringTables/ST_MainMenu.ST_MainMenu
+#: /Game/StringTables/ST_MainMenu.ST_MainMenu
+msgctxt "ST,continue"
+msgid "Continue"
+msgstr ""
+
+#. Key:	create_game
+#. SourceLocation:	/Game/StringTables/ST_MainMenu.ST_MainMenu
+#: /Game/StringTables/ST_MainMenu.ST_MainMenu
+msgctxt "ST,create_game"
+msgid "Create Game"
+msgstr ""
+
+#. Key:	join_game
+#. SourceLocation:	/Game/StringTables/ST_MainMenu.ST_MainMenu
+#: /Game/StringTables/ST_MainMenu.ST_MainMenu
+msgctxt "ST,join_game"
+msgid "Join Game"
+msgstr ""
+
+#. Key:	quit
+#. SourceLocation:	/Game/StringTables/ST_MainMenu.ST_MainMenu
+#: /Game/StringTables/ST_MainMenu.ST_MainMenu
+msgctxt "ST,quit"
+msgid "Quit"
+msgstr ""
+
+#. Key:	settings
+#. SourceLocation:	/Game/StringTables/ST_MainMenu.ST_MainMenu
+#: /Game/StringTables/ST_MainMenu.ST_MainMenu
+msgctxt "ST,settings"
+msgid "Settings"
+msgstr ""
+
+#. Key:	start
+#. SourceLocation:	/Game/StringTables/ST_MainMenu.ST_MainMenu
+#: /Game/StringTables/ST_MainMenu.ST_MainMenu
+msgctxt "ST,start"
+msgid "Start"
+msgstr ""
+

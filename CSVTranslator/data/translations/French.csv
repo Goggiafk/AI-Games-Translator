@@ -1,0 +1,14 @@
+field1,Name,Description,Image
+id1,Internationalisation,"Internationalisation (i18n) dans les jeux :
+
+Portée : L'internationalisation dans les jeux implique de concevoir et développer le jeu de manière à ce qu'il puisse s'adapter à différentes langues, régions et contextes culturels.
+Objectif : L'objectif principal de l'internationalisation est de créer une base dans le jeu qui permet une localisation facile sans avoir besoin de modifications importantes du code. Cela prépare le terrain pour rendre le jeu culturellement et linguistiquement neutre.
+Activités : Pendant l'internationalisation, les développeurs de jeux se concentrent sur des aspects tels que l'externalisation du texte, l'adaptation à différents ensembles de caractères (prise en charge de l'Unicode) et la conception d'une interface utilisateur flexible capable de gérer différentes longueurs de texte et de formats. Cela implique également de tenir compte des différences culturelles dans des éléments tels que les formats de date et d'heure, les représentations numériques et d'autres aspects non textuels.",/Game/Images/id1.id1
+id2,Localisation,"Localisation (L10n) dans les jeux :
+
+Portée : La localisation dans les jeux consiste spécifiquement à adapter le jeu pour une langue, une région ou un contexte culturel particulier.
+Objectif : L'objectif principal de la localisation est de personnaliser le jeu pour un public cible, en le rendant culturellement pertinent et linguistiquement précis. Cela inclut la traduction du texte, l'ajustement des éléments culturels et l'adaptation de l'expérience utilisateur à une localité spécifique.
+Activités : Pendant la localisation, les traducteurs travaillent sur la traduction du texte intégré au jeu, l'adaptation des éléments graphiques et audio, ainsi que sur les ajustements de l'interface utilisateur pour correspondre aux attentes linguistiques et culturelles du public cible. Cela peut également impliquer des modifications de contenu qui pourraient être culturellement sensibles ou inappropriées dans certaines régions.",/Game/Images/id2.id2
+id3,Bonjour,Bonjour le monde !,/Game/Images/id3.id3
+id4,Au revoir,Au revoir le monde !,/Game/Images/id4.id4
+id5,Exemple,Exemple de texte,/Game/Images/id5.id5
